@@ -1,3 +1,21 @@
+<#
+    .SYNOPSIS
+        Name: Import-CSV-PRTG.ps1
+        Adding device to PRTG from an CSV file
+        
+    .DESCRIPTION
+        Adding device to PRTG from a CSV file
+
+    .NOTES
+        Release Date: 10TH of april 2026
+    
+        Made BY Qwereleros
+
+    .NOTES
+        This script require the modules :
+            - PrtgApi https://github.com/lordmilko/PrtgAPI
+#>
+
 #Import CSV PRTG
 #Download the PRTGAPI MODULE WITH
 #Install-Module -Name PrtgAPI
