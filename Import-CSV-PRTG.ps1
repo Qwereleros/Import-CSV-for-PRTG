@@ -63,7 +63,7 @@ start-sleep -Seconds 5
 #getting all the groups from PRTG
 $allgroups = Get-group
 #-----------------------------------------------------------------------------------------------------------------------------
-#Making a new group if $quistion_gruopcreation -eq Y
+#Making a new group if $question_groupcreation -eq Y
 $loop = $true
 if ($Question_Groupcreation -eq "y"){
     while ($loop -eq $true){
@@ -271,5 +271,3 @@ foreach ($Device in $csv){
 Write-host "All Devices have been added" -ForegroundColor Yellow
 Write-host "If you cant find your added devices refresh your page" -ForegroundColor yellow
 Disconnect-PrtgServer
-
-#Script made by Qwereleros
