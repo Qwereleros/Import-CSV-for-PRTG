@@ -7,8 +7,7 @@
         Adding device to PRTG from a CSV file
 
     .NOTES
-        Release Date: 10TH of april 2026
-    
+
         Made BY Qwereleros
 
     .NOTES
