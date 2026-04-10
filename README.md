@@ -1,6 +1,9 @@
 This script is an IMPORT-CSV script for PRTG. This script is for powershel 5.1+
 
+
 First you need an CSV file with the headers Devicename IP Groupname
+
+
 <img width="248" height="192" alt="afbeelding" src="https://github.com/user-attachments/assets/6fef0434-1da2-467c-b3ca-c2a7e8bff62e" />
 
 
